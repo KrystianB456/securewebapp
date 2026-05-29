@@ -1,7 +1,3 @@
-# Secure Document Sharing System
-CS 419 — Secure Web Application Project  
-**Authors:** Krystian Bochenko & Ethan Nayak  
-**Professor:** Prof. Rakesh Kushwaha
 
 A Flask-based secure document sharing system with encrypted file storage, role-based access control, and comprehensive security controls.
 
